@@ -1,0 +1,30 @@
+{
+    "key1": {
+        "keyword": "今日时间",
+        "reply1": {
+            "messageType": "function",
+            "content": "GetTime",
+            "addition": "时间来啦!"
+        },
+        "reply2": {
+            "messageType": "function",
+            "content": "GetTime",
+            "addition": "这是现在的时间!"
+        },
+        "Overflow1": {
+            "messageType": "function",
+            "content": "GetTime",
+            "addition": "麻烦..."
+        },
+        "Overflow2": {
+            "messageType": "Text",
+            "content": "请不要玩弄我了",
+            "addition": null
+        },
+        "Overflow3": {
+            "messageType": "Image",
+            "content": "C:\\yenmor\\Robot\\Img\\BLNL.png",
+            "addition": "↓"
+        }
+    }
+}
