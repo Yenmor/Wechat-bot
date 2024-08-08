@@ -1,0 +1,147 @@
+{
+    "key1": {
+        "keyword": "今日时间",
+        "reply1": {
+            "messageType": "function",
+            "content": "GetTime",
+            "addition": "时间来啦!"
+        },
+        "reply2": {
+            "messageType": "function",
+            "content": "GetTime",
+            "addition": "这是现在的时间!"
+        },
+        "Overflow1": {
+            "messageType": "function",
+            "content": "GetTime",
+            "addition": "麻烦..."
+        },
+        "Overflow2": {
+            "messageType": "Text",
+            "content": "请不要玩弄我了",
+            "addition": null
+        },
+        "Overflow3": {
+            "messageType": "Image",
+            "content": "C:\\yenmor\\Robot\\Img\\BLNL.png",
+            "addition": "↓"
+        }
+    },
+    "key2": {
+        "keyword": "6",
+        "reply1": {
+            "messageType": "Text",
+            "content": "注意,这不是一种好的行为!",
+            "addition": null
+        },
+        "reply2": {
+            "messageType": "Text",
+            "content": "我不推荐你用这种语气说话!",
+            "addition": null
+        },
+        "reply3": {
+            "messageType": "Text",
+            "content": "你没有更好的表达方式了吗?",
+            "addition": null
+        },
+        "Overflow1": {
+            "messageType": "Text",
+            "content": "求求你,不要这样了好不好",
+            "addition": null
+        },
+        "Overflow2": {
+            "messageType": "Text",
+            "content": "说这么多,原来你是在戏弄我吗.",
+            "addition": null
+        },
+        "Overflow3": {
+            "messageType": "Text",
+            "content": "好吧,你开心便好.",
+            "addition": null
+        }
+    },
+    "key3": {
+        "keyword": "我是傻逼",
+        "reply1": {
+            "messageType": "Text",
+            "content": "不必妄自菲薄!相信自己!即便是傻逼,你也是傻逼里面最傻逼的!",
+            "addition": null
+        },
+        "reply2": {
+            "messageType": "Text",
+            "content": "何必这样呢?",
+            "addition": null
+        },
+        "Overflow1": {
+            "messageType": "Text",
+            "content": "你是再以这种方式取悦我吗?",
+            "addition": null
+        },
+        "Overflow2": {
+            "messageType": "Text",
+            "content": "你要真这样想,我也能接受.",
+            "addition": null
+        },
+        "Overflow3": {
+            "messageType": "Image",
+            "content": "C:\\yenmor\\Robot\\Img\\BLNL.png",
+            "addition": "↓"
+        }
+    },
+    "key4": {
+        "keyword": "惠 给我一张图片",
+        "reply1": {
+            "messageType": "Image",
+            "content": "C:\\yenmor\\Robot\\Img\\RandomImgs\\1 (1).png",
+            "addition": null
+        },
+        "reply2": {
+            "messageType": "Image",
+            "content": "C:\\yenmor\\Robot\\Img\\RandomImgs\\1 (7).png",
+            "addition": null
+        },
+        "reply3": {
+            "messageType": "Image",
+            "content": "C:\\yenmor\\Robot\\Img\\RandomImgs\\1 (8).png",
+            "addition": null
+        },
+        "Overflow1": {
+            "messageType": "Text",
+            "content": "result:overflow1",
+            "addition": null
+        },
+        "Overflow2": {
+            "messageType": "Text",
+            "content": "result:overflow2",
+            "addition": null
+        },
+        "Overflow3": {
+            "messageType": "Text",
+            "content": "result:overflow3",
+            "addition": null
+        }
+    },
+    "key5": {
+        "keyword": ".*/gpt.*",
+        "reply1": {
+            "messageType": "function",
+            "content": "gpt",
+            "addition": null
+        },
+        "Overflow1": {
+            "messageType": "function",
+            "content": "gpt",
+            "addition": null
+        },
+        "Overflow2": {
+            "messageType": "function",
+            "content": "gpt",
+            "addition": null
+        },
+        "Overflow3": {
+            "messageType": "function",
+            "content": "gpt",
+            "addition": null
+        }
+    }
+}
