@@ -1,6 +1,6 @@
 # WeChatBot - Java
 
-> 本项目是对 https://github.com/cixingguangming55555/wechat-bot 项目做出的JAVA版本客户端UoUoio 贡献[java客户端  UoUoio  github地址 3.2.1.121](https://github.com/UoUoio/WechatBot) 的二次开发,调用一些接口实现了简单的功能
+> 本项目是对 https://github.com/cixingguangming55555/wechat-bot 项目做出的JAVA版本客户端UoUoio 贡献[java客户端  UoUoio  github地址 3.2.1.121](https://github.com/UoUoio/WechatBot) 的二次开发（算是对原项目的三次开发),调用一些接口实现了简单的功能
 
 >1.在C://yenmor/Robot/中建立一个document.json规范机器人的发言
 >2.注入微信dll
